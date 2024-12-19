@@ -1,6 +1,6 @@
 ## Hi people, I'm Rishvedha
  📍 India <br>
- Data Science Student<br>| Aspiring Data Analyst<br> Passionate about data science,analysis, visualization and creating impactful projects.
+ Data Science Student | Aspiring Data Analyst<br> Passionate about data science,analysis, visualization and creating impactful projects.
 
 
 ## 🌐 Socials
